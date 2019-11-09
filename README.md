@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/POMSPOS14/hw1_remainingWay.svg?branch=master)](https://travis-ci.org/POMSPOS14/hw1_remainingWay)
+[![codecov](https://codecov.io/gh/POMSPOS14/hw1_remainingWay/branch/master/graph/badge.svg)](https://codecov.io/gh/POMSPOS14/hw1_remainingWay)
