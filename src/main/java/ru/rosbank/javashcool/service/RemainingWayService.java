@@ -1,6 +1,6 @@
 package ru.rosbank.javashcool.service;
 
-public class remainingWayService {
+public class RemainingWayService {
 
     public int calculate(int consumption, int fuel) {
         int consumptionInML = consumption * 1000;
